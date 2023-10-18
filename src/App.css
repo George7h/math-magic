@@ -6,8 +6,6 @@
 
 .calculator {
   width: 400px;
-  border-radius: 5px;
-  padding: 10px;
   background-color: #858694;
   font-size: large;
 }
