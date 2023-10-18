@@ -36,23 +36,11 @@ Read a random math-related quote.
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>HTML</summary>
+  <summary>Client</summary>
   <ul>
-    <li><a href="./template.html">Home page</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>CSS</summary>
-  <ul>
-    <li><a href="./index.css">Stylesheet</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>JavaScript</summary>
-  <ul>
-    <li><a href="./index.js">JavaScript code</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript<a></li>
   </ul>
 </details>
 
