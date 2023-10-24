@@ -26,12 +26,10 @@ function Calculator() {
   return (
 
     <div className="calculator">
-      <div className="displayScreen">
-        <span>
-          {calculatorState.total}
-          {calculatorState.operation}
-          {calculatorState.next}
-        </span>
+      <div className="displayScreen" data-testid="displayScreen">
+        {calculatorState.total}
+        {calculatorState.operation}
+        {calculatorState.next}
       </div>
       <Buttons numberAndOperator={calcButton} />
     </div>
