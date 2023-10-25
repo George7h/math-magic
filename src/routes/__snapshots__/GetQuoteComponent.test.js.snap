@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render without crashing 1`] = `
+<div>
+  <div
+    className="quotes"
+  >
+    <h4 />
+    <h5 />
+  </div>
+</div>
+`;
